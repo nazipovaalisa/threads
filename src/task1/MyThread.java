@@ -2,10 +2,10 @@ package task1;
 
 public class MyThread extends Thread {
 
-    int[] mas;
-    int sum;
-    int start;
-    int finish;
+    private int[] mas;
+    private int sum;
+    private int start;
+    private int finish;
 
     MyThread(int[] m, int start, int finish){
 

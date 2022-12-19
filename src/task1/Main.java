@@ -19,6 +19,6 @@ public class Main {
             sum+=t.getSum();
             j = j + len;
         }
-        System.out.println(sum);
+        System.out.println("Sum of array = "+sum);
     }
 }

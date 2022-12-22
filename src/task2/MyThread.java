@@ -11,7 +11,10 @@ public class MyThread implements Runnable
     public void run() {
         synchronized (res)
         {
-            res.calc_sum();
+            res.setSum(0);
+            for (int i = 0; i < res.getArray().length; i++) {
+                res.setSum(res.getSum()+res.getArray()[i]);
+            }
             System.out.println(Thread.currentThread().getName()+ " Sum of array: " + res.getSum());
         }
     }

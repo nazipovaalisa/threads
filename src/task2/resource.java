@@ -8,11 +8,6 @@ public class resource {
         this.array = array;
         this.sum = 0;
     }
-    public void calc_sum(){
-        this.sum = 0;
-        for (int j : this.array) this.sum += j;
-    }
-
     public int getSum() {
         return sum;
     }

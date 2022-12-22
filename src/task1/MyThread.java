@@ -19,6 +19,7 @@ public class MyThread extends Thread {
     {
         for(int i = start; i< finish; i++)
             sum+=mas[i];
+        System.out.println(this.getName() + " "+sum);
     }
 
     public int getSum() {

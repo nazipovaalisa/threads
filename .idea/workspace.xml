@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dfe5214-cc31-4e0a-9601-f28106e4ee74" name="Changes" comment="add task2" />
+    <list default="true" id="4dfe5214-cc31-4e0a-9601-f28106e4ee74" name="Changes" comment="change task2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/resource.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
